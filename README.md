@@ -1,19 +1,10 @@
-Tic Tac Toe Game
-A simple Tic Tac Toe game app created by a beginner.
+Tic Tac Toe Game: A simple Tic Tac Toe game app.
 
-Features:
-Classic gameplay for two players.
-User-friendly interface.
+Features: (i) Classic gameplay for two players.(ii) User-friendly interface.
 
-How to Play
-Clone or download the repository.
-Open index.html in a web browser.
+How to Play: (i)Clone or download the repository.(ii) Open index.html in a web browser.
 
+Installation: Clone the repository: git clone https://github.com/Srestha05/New-project-game.git . (ii) Open in your code editor.
 
-Installation
-Clone the repository: git clone https://github.com/Srestha05/New-project-game.git
-Open in your code editor.
-
-Usage
-Open index.html in a web browser.
+Usage: Open index.html in a web browser.
 
